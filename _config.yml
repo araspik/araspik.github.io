@@ -36,7 +36,7 @@ struct_front_matter: false
 show_drafts:  null
 limit_posts:  0
 future:       false
-unpublished:  false
+unpublished:  true
 
 # Plugins
 whitelist:  []
