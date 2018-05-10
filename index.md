@@ -6,12 +6,4 @@ layout: home
 title: Codespikyrus
 ---
 
-Hello World! This is Codespikyrus.
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+Hello World! This is Codespikyrus, a blogsite for programming-related stuffs.
